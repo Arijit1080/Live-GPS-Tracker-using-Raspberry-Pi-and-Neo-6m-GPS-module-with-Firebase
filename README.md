@@ -4,6 +4,7 @@ Here I have made a realtime GPS tracker device, which you can track from anywher
 <a href="#"><img src="map2.gif" alt="" width="480" height="360"></a>
 </p>
 </br>
+To know how to use NEO 6M GPS module with Raspberry Pi and Python, you can read the article here : https://sparklers-the-makers.github.io/blog/robotics/use-neo-6m-module-with-raspberry-pi/
 You can also watch these video tutorials for the same:</br>
 
 ## Authors
